@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/josephpipitone/blog/compare/v1.1.0...v1.1.1) (2025-11-24)
+
+### 🐛 Bug Fixes
+
+* conventionalcommits ([ef99f60](https://github.com/josephpipitone/blog/commit/ef99f6064897eba567074e4b3f4f711aeaf7fb89))
+* more release fixes ([1e8c2c4](https://github.com/josephpipitone/blog/commit/1e8c2c4c1f59dd329052c0f3a69ae736c2f86b8a))
+
 ## [1.1.0](https://github.com/josephpipitone/blog/compare/v1.0.0...v1.1.0) (2025-11-24)
 
 ### 🚀 Features
