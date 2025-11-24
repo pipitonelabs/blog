@@ -1,3 +1,9 @@
+## [1.1.3](https://github.com/josephpipitone/blog/compare/v1.1.2...v1.1.3) (2025-11-24)
+
+### 🐛 Bug Fixes
+
+* changed image name ([7100f3e](https://github.com/josephpipitone/blog/commit/7100f3ef0eb8048258e745000879a5771f733b1e))
+
 ## [1.1.2](https://github.com/josephpipitone/blog/compare/v1.1.1...v1.1.2) (2025-11-24)
 
 ### 🐛 Bug Fixes
