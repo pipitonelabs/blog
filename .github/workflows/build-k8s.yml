@@ -37,7 +37,7 @@ jobs:
 
       - name: Install semantic-release plugins
         run: |
-          npm install -g semantic-release @semantic-release/commit-analyzer @semantic-release/release-notes-generator @semantic-release/changelog @semantic-release/git @semantic-release/github
+          npm install -g semantic-release @semantic-release/commit-analyzer @semantic-release/release-notes-generator @semantic-release/changelog @semantic-release/git @semantic-release/github conventional-changelog-conventionalcommits
 
       - name: Semantic Release
         id: semantic
