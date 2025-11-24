@@ -1,3 +1,9 @@
+## [1.1.0](https://github.com/josephpipitone/blog/compare/v1.0.0...v1.1.0) (2025-11-24)
+
+### 🚀 Features
+
+* updated bio ([56918dd](https://github.com/josephpipitone/blog/commit/56918dd0e96d1bb140e45f2c3f13265a9d2202fe))
+
 ## 1.0.0 (2025-11-24)
 
 ### 🚀 Features
