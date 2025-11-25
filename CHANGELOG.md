@@ -1,3 +1,9 @@
+## [1.1.4](https://github.com/pipitonelabs/blog/compare/v1.1.3...v1.1.4) (2025-11-25)
+
+### 🐛 Bug Fixes
+
+* updating subdomain ([8828111](https://github.com/pipitonelabs/blog/commit/8828111e5da7225e80b5712a784f4e9cfd452679))
+
 ## [1.1.3](https://github.com/josephpipitone/blog/compare/v1.1.2...v1.1.3) (2025-11-24)
 
 ### 🐛 Bug Fixes
